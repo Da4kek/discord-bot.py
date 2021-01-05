@@ -1,9 +1,10 @@
-# discord-bot.py
-# requirements:
-```pip install discord.py```
+# defcon-bot
+an amazing music bot with lot of server side errors
+
+#brokenbothelp has some issues(not now! remove the on_message command), cant figure it out i mean not errors. There were no errors but didnt work
 
 
 
 
-```pip install youtube-dl```
-## you will need ffmpeg ofcourse to get the source 
+#finalbot is the bot which works 
+#please dont use the bots i have to update the bot, will update daily
