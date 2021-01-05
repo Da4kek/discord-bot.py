@@ -277,9 +277,7 @@ async def whois(ctx,member:discord.Member):
         await ctx.send('mention them!!')
 
 
-#skip
-@bot.command(aliases = ['sk','sp'])
-async def skip(ctx):
+
     
 
 
@@ -305,4 +303,4 @@ async def help(ctx):
 
 
 
-bot.run('NzM0NDA5NTYxNTQ0NTg5NDMz.XxRSNA.Om8Pfv_ioZrOtmdkjq_pLsBrVFk')
+bot.run('NzM0NDA5NTYxNTQ0NTg5NDMz.XxRSNA.DKefUBwAiyiyWbgGCZyOhV69KT4')
