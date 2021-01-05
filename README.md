@@ -1,10 +1,11 @@
 # defcon-bot
-an amazing music bot with lot of server side errors
 
-#brokenbothelp has some issues(not now! remove the on_message command), cant figure it out i mean not errors. There were no errors but didnt work
 
+#Please download requirements.txt too(if you get any errors running it)
+#you need to authenticate the bot to a server(discord server) to use the bot!
 
 
 
 #finalbot is the bot which works 
-#please dont use the bots i have to update the bot, will update daily
+#please dont change any values
+#bot's token has been changed so you cannot run it as it is.
